@@ -1,6 +1,7 @@
 var base58 = require('./crypto/base58');
 var segwit = require('./crypto/segwit_addr');
 var cryptoUtils = require('./crypto/utils');
+var Buffer = require('buffer/').Buffer
 
 var DEFAULT_NETWORK_TYPE = 'prod';
 

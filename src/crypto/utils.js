@@ -6,6 +6,7 @@ var Blake2B = require('./blake2b');
 var base58 = require('./base58');
 var base32 = require('./base32');
 var BigNum = require('browserify-bignum');
+var Buffer = require('buffer/').Buffer
 
 function numberToHex(number, length) {
     var hex = number.toString(16);

@@ -1,4 +1,5 @@
 var cryptoUtils = require('./crypto/utils');
+var Buffer = require('buffer/').Buffer
 
  /**
 * Check if an address is valid
