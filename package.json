@@ -1,5 +1,5 @@
 {
-    "name": "multicoin-address-validator",
+    "name": "utt-crypto-address-validator",
     "description": "Multicoin address validator for Bitcoin and other Altcoins.",
     "keywords": [
         "0x","zrx",
@@ -159,13 +159,13 @@
         "ZClassic","zcl",
         "ZenCash","zen"
     ],
-    "version": "0.5.16",
-    "author": "Chris <chris.tsim@gmail.com>",
-    "homepage": "https://github.com/christsim/multicoin-address-validator",
+    "version": "1.0.0",
+    "author": "Nahar",
+    "homepage": "https://github.com/rivershertz/multicoin-address-validator",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/christsim/multicoin-address-validator.git"
+        "url": "https://github.com/rivershertz/multicoin-address-validator.git"
     },
     "main": "src/wallet_address_validator",
     "engines": {
